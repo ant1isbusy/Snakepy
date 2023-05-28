@@ -11,6 +11,6 @@ If Q is pressed the game is exited.
 If the snake collides with the walls or it loses all its lives, the game ends.
 
 
-In the end the user can enter his or her name and the last 4 users are saved to a history.txt file.
+In the end the user can enter their name and the last 4 users are saved to a history.txt file.
 
 
