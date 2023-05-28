@@ -170,7 +170,7 @@ def main():
         _1_print_game_board()
         if LIVES == 0:
             return
-        userinput = input("input [w a s d]:")
+        userinput = input("input [w a s d]: ")
         if ORIENTATION == 4 and userinput == "w":
             print("INVALID")
             continue
