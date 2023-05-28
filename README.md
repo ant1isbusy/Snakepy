@@ -13,5 +13,3 @@ If the snake collides with the walls or it loses all its lives, the game ends.
 In the end the user can enter his or her name and the last 4 users are saved to a history.txt file.
 
 
-!The game in the termianl:[ezgif-5-2183cf6df8](https://github.com/ant1isbusy/Snakepy/assets/115068541/3a1244ae-db58-437a-9e17-2896c6e416df)
-
