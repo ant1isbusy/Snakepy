@@ -1,5 +1,5 @@
 ![ezgif-5-2183cf6df8](https://github.com/ant1isbusy/Snakepy/assets/115068541/7a456945-d893-409c-9057-663f3e0506db)
-# Snakepy
+# Snake.py
 
 A simple terminal snake game in python made for my first semester python course. 
 
