@@ -4,7 +4,7 @@
 A simple terminal snake game in python made for my first semester python course. 
 
 The user enters a single input (wasd) followed by an enter to make the snake move.
-A snake has 3 lives and 12 moves per life.
+The snake has 3 lives and 12 moves per life.
 
 
 If Q is pressed the game is exited.
